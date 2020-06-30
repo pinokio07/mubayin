@@ -81,7 +81,7 @@
         </div>
         <!-- /.card-header -->
         <div class="card-body mailbox-messages">
-          <table class="table table-sm" width="100%" id="dataBerita">
+          <table class="table table-responsive table-sm" width="100%" id="dataBerita">
           	<thead>
           		<tr>          			
           			<th>Penulis</th>
