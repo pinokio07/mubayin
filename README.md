@@ -12,7 +12,7 @@
 Website ini ditujukan untuk para mubayin baru Ahmadiyah agar dapat saling bertukar informasi, pertanyaan, bahkan memberikan testimoni
 
 - <b>Halaman utama</b> berisikan berbagai jenis informasi kegiatan, khutbah, tulisan dari pembaca, bahkan testimoni dari anggota.
--<b>Halaman Kegiatan</b> berisikan kegiatan - kegiatan jemaat di seluruh indonesia yang ditulis oleh pengurus maupun dari anggota.
+- <b>Halaman Kegiatan</b> berisikan kegiatan - kegiatan jemaat di seluruh indonesia yang ditulis oleh pengurus maupun dari anggota.
 - <b>Halaman Khutbah</b> berisikan khutbah dari Amirul Mu'minin Ahmadiyah yang telah di terjemahkan ke dalam bahasa Indonesia.
 - <b>Halaman Bai'at</b> berisikan tentang pengetahuan bai'at menurut pendiri Jema'at Ahmadiyah dan juga informasi tentang 10 Janji Bai'at yang di amalkan oleh para Anggota Jema'at Ahmadiyah.
 - <b>Halaman Gallery</b>, berisikan gallery yang dapat diakses oleh anggota. Terdapat 2 Jenis gallery, Foto dan Buku.
