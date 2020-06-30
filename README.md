@@ -1,4 +1,4 @@
-<p align="center"><img src="https://gitlab.dcidn.com/bayu/mubayin/-/blob/master/public/images/favicon.png" width="400"></p>
+<p align="center"><img src="https://github.com/pinokio07/mubayin/blob/master/public/images/favicon.png" width="400"></p>
 
 <p align="center">
 <!-- <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
